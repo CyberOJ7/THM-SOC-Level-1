@@ -1,4 +1,5 @@
-<img width="1897" height="1032" alt="Screenshot (459)" src="https://github.com/user-attachments/assets/86f82bea-9454-45a3-9797-e3155c68d8bb" />
+<img width="1894" height="1024" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/8f2c7fb8-9db1-421c-8fe0-a5bc8bfde857" />
+
 
 ## Incident Report: Phishing Alert Triage
 * **Analyst:** Level 1 SOC Analyst  
